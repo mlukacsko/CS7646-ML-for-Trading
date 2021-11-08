@@ -1,0 +1,61 @@
+<pre>--- Summary ---
+Tests passed: 0 out of 13
+
+--- Details ---
+Test #0: failed 
+Test case description: Orders 1
+TypeError: cannot serialize '_io.TextIOWrapper' object
+
+Test #1: failed 
+Test case description: Orders 2
+TypeError: cannot serialize '_io.TextIOWrapper' object
+
+Test #2: failed 
+Test case description: Orders 3
+TypeError: cannot serialize '_io.TextIOWrapper' object
+
+Test #3: failed 
+Test case description: Orders 4
+TypeError: cannot serialize '_io.TextIOWrapper' object
+
+Test #4: failed 
+Test case description: Orders 5
+TypeError: cannot serialize '_io.TextIOWrapper' object
+
+Test #5: failed 
+Test case description: Orders 6
+TypeError: cannot serialize '_io.TextIOWrapper' object
+
+Test #6: failed 
+Test case description: Orders 7
+TypeError: cannot serialize '_io.TextIOWrapper' object
+
+Test #7: failed 
+Test case description: Orders 8
+TypeError: cannot serialize '_io.TextIOWrapper' object
+
+Test #8: failed 
+Test case description: Orders 9
+TypeError: cannot serialize '_io.TextIOWrapper' object
+
+Test #9: failed 
+Test case description: Orders 11, commission
+TypeError: cannot serialize '_io.TextIOWrapper' object
+
+Test #10: failed 
+Test case description: Orders 12, impact
+TypeError: cannot serialize '_io.TextIOWrapper' object
+
+Test #11: failed 
+Test case description: Orders 10, impact and commission
+TypeError: cannot serialize '_io.TextIOWrapper' object
+
+Test #12: failed 
+Test case description: author() test
+IncorrectOutput: Test failed on one or more output criteria.
+  Inputs:
+None
+  Failures:
+   Exception occured when calling author() method: Unknown Exception
+
+</pre>

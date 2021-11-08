@@ -1,0 +1,13 @@
+Benchmark Strategy Returns:
+Benchmark Strategy Cumulative Return: 0.012299999999999978
+Benchmark Strategy Avd Daily Return: 0.00016808697819094035
+Benchmark Strategy Std Daily Return: 0.017004366271213767
+Benchmark Strategy Normalized Ending Value: 1.0123
+Benchmark Strategy Ending Value: 101230.0
+
+Optimal Strategy Returns:
+Optimal Strategy Cumulative Return: 5.7624
+Optimal Strategy Avd Daily Return: 0.003817419250647995
+Optimal Strategy Std Daily Return: 0.004555095612772053
+Optimal Strategy Normalized Ending Value: 6.7624
+Optimal Strategy Ending Value: 676240.0
