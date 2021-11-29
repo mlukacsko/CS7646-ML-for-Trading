@@ -1,0 +1,35 @@
+In Sample Dates: 2008-01-01 00:00:00 to 2009-12-31 00:00:00 for JPM
+
+Manual Strategy - In Sample
+Cumulative Return: 0.22267915657605997
+Standard Deviation: 0.013851590222206613
+Average Daily Return: 0.0004944057264783768
+Sharpe Ratio: 0.5666098598257371
+Final Portfolio Value: 122255.74999999808
+Normalized Final Portfolio Value: 1.22267915657606
+
+Benchmark Strategy - In Sample
+Cumulative Return: -0.039913745507146325
+Standard Deviation: 0.017468249019795747
+Average Daily Return: 7.09716619623517e-05
+Sharpe Ratio: 0.06449645896593266
+Final Portfolio Value: 95814.40000000148
+Normalized Final Portfolio Value: 0.9600862544928537
+
+Out Of Sample Dates: 2010-01-01 00:00:00 to 2011-12-31 00:00:00 for JPM
+
+Manual Strategy - Out Of Sample
+Cumulative Return: 0.03859684038560318
+Standard Deviation: 0.008038598700696247
+Average Daily Return: 0.0001075340119689474
+Sharpe Ratio: 0.21235660373958154
+Final Portfolio Value: 103849.34999999849
+Normalized Final Portfolio Value: 1.0385968403856032
+
+Benchmark Strategy - Out Of Sample
+Cumulative Return: -0.13536508738224562
+Standard Deviation: 0.008781865133658723
+Average Daily Return: -0.00025061167508665436
+Sharpe Ratio: -0.45301732001368017
+Final Portfolio Value: 86278.20000000147
+Normalized Final Portfolio Value: 0.8646349126177544

@@ -1,0 +1,25 @@
+Dates: 2008-01-01 00:00:00 to 2009-12-31 00:00:00 for JPM
+
+Benchmark Strategy
+Cumulative Return: -0.039913745507146325
+Standard Deviation: 0.017468249019795747
+Average Daily Return: 7.09716619623517e-05
+Sharpe Ratio: 0.06449645896593266
+Final Portfolio Value: 95814.40000000148
+Total Trades: 2
+
+Manual Strategy
+Cumulative Return: 0.22267915657605997
+Standard Deviation: 0.013851590222206613
+Average Daily Return: 0.0004944057264783768
+Sharpe Ratio: 0.5666098598257371
+Final Portfolio Value: 122255.74999999808
+Total Trades: 27
+
+Strategy Learner
+Cumulative Return: 1.557843517435734
+Standard Deviation: 0.009960679658450027
+Average Daily Return: 0.0019144385755260453
+Sharpe Ratio: 3.0510739496699215
+Final Portfolio Value: 255266.89999999618
+Total Trades: 74

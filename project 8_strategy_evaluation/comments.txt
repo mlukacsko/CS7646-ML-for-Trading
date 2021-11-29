@@ -1,0 +1,81 @@
+<pre>--- Summary ---
+Tests passed: 0 out of 4
+
+--- Details ---
+Test #0: failed 
+Test case description: ML4T-220
+Traceback:
+  File "grade_strategy_learner.py", line 237, in test_strategy
+    ) = run_with_timeout(timeoutwrapper_strategylearner, max_time, (), {})
+  File "grading.py", line 160, in run_with_timeout
+    p.start()
+  File "process.py", line 121, in start
+    self._popen = self._Popen(self)
+  File "context.py", line 224, in _Popen
+    return _default_context.get_context().Process._Popen(process_obj)
+  File "context.py", line 327, in _Popen
+    return Popen(process_obj)
+  File "popen_spawn_win32.py", line 93, in __init__
+    reduction.dump(process_obj, to_child)
+  File "reduction.py", line 60, in dump
+    ForkingPickler(file, protocol).dump(obj)
+AttributeError: Can't pickle local object 'test_strategy.<locals>.timeoutwrapper_strategylearner'
+
+Test #1: failed 
+Test case description: AAPL
+Traceback:
+  File "grade_strategy_learner.py", line 237, in test_strategy
+    ) = run_with_timeout(timeoutwrapper_strategylearner, max_time, (), {})
+  File "grading.py", line 160, in run_with_timeout
+    p.start()
+  File "process.py", line 121, in start
+    self._popen = self._Popen(self)
+  File "context.py", line 224, in _Popen
+    return _default_context.get_context().Process._Popen(process_obj)
+  File "context.py", line 327, in _Popen
+    return Popen(process_obj)
+  File "popen_spawn_win32.py", line 93, in __init__
+    reduction.dump(process_obj, to_child)
+  File "reduction.py", line 60, in dump
+    ForkingPickler(file, protocol).dump(obj)
+AttributeError: Can't pickle local object 'test_strategy.<locals>.timeoutwrapper_strategylearner'
+
+Test #2: failed 
+Test case description: SINE_FAST_NOISE
+Traceback:
+  File "grade_strategy_learner.py", line 237, in test_strategy
+    ) = run_with_timeout(timeoutwrapper_strategylearner, max_time, (), {})
+  File "grading.py", line 160, in run_with_timeout
+    p.start()
+  File "process.py", line 121, in start
+    self._popen = self._Popen(self)
+  File "context.py", line 224, in _Popen
+    return _default_context.get_context().Process._Popen(process_obj)
+  File "context.py", line 327, in _Popen
+    return Popen(process_obj)
+  File "popen_spawn_win32.py", line 93, in __init__
+    reduction.dump(process_obj, to_child)
+  File "reduction.py", line 60, in dump
+    ForkingPickler(file, protocol).dump(obj)
+AttributeError: Can't pickle local object 'test_strategy.<locals>.timeoutwrapper_strategylearner'
+
+Test #3: failed 
+Test case description: UNH - In sample
+Traceback:
+  File "grade_strategy_learner.py", line 237, in test_strategy
+    ) = run_with_timeout(timeoutwrapper_strategylearner, max_time, (), {})
+  File "grading.py", line 160, in run_with_timeout
+    p.start()
+  File "process.py", line 121, in start
+    self._popen = self._Popen(self)
+  File "context.py", line 224, in _Popen
+    return _default_context.get_context().Process._Popen(process_obj)
+  File "context.py", line 327, in _Popen
+    return Popen(process_obj)
+  File "popen_spawn_win32.py", line 93, in __init__
+    reduction.dump(process_obj, to_child)
+  File "reduction.py", line 60, in dump
+    ForkingPickler(file, protocol).dump(obj)
+AttributeError: Can't pickle local object 'test_strategy.<locals>.timeoutwrapper_strategylearner'
+
+</pre>
